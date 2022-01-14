@@ -1,4 +1,6 @@
-# Rosin-Rammler Distribution
+# A Python Library for Particle Size Distribution
+
+## Rosin-Rammler Distribution
 Functions to plot Rosin-Rammler Distribution
 
 The cumulative particle size distribution is given by:
